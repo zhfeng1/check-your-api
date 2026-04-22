@@ -2,7 +2,7 @@
 
 面向 OpenAI 兼容 API 的批量可用性检测工具，支持实时延迟监控。
 
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/Z1rconium/check-your-api)
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/zhfeng1/check-your-api)
 
 ![React](https://img.shields.io/badge/React-18.3-61DAFB?logo=react&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-5.5-3178C6?logo=typescript&logoColor=white)
